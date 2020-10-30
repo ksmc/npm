@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'ethernet';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f796';
-var svgPathData = ['M512 208v224a16 16 0 0 1-16 16h-80V320h-32v128h-64V320h-32v128h-64V320h-32v128h-64V320H96v128H16a16 16 0 0 1-16-16V208a16 16 0 0 1 16-16h48v-48a16 16 0 0 1 16-16h48V80a16 16 0 0 1 16-16h224a16 16 0 0 1 16 16v48h48a16 16 0 0 1 16 16v48h48a16 16 0 0 1 16 16z', 'M192 448h32V320h-32zm-96 0h32V320H96zm192 0h32V320h-32zm96-128v128h32V320z'];
+var svgPathData = 'M496 192h-48v-48c0-8.8-7.2-16-16-16h-48V80c0-8.8-7.2-16-16-16H144c-8.8 0-16 7.2-16 16v48H80c-8.8 0-16 7.2-16 16v48H16c-8.8 0-16 7.2-16 16v224c0 8.8 7.2 16 16 16h80V320h32v128h64V320h32v128h64V320h32v128h64V320h32v128h80c8.8 0 16-7.2 16-16V208c0-8.8-7.2-16-16-16z';
 
 exports.definition = {
   prefix: prefix,

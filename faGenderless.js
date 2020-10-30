@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'genderless';
 var width = 288;
 var height = 512;
 var ligatures = [];
 var unicode = 'f22d';
-var svgPathData = ['M144,336a80,80,0,1,1,80-80A80,80,0,0,1,144,336Z', 'M144,112A144,144,0,1,0,288,256,144,144,0,0,0,144,112Zm0,224a80,80,0,1,1,80-80A80,80,0,0,1,144,336Z'];
+var svgPathData = 'M144 176c44.1 0 80 35.9 80 80s-35.9 80-80 80-80-35.9-80-80 35.9-80 80-80m0-64C64.5 112 0 176.5 0 256s64.5 144 144 144 144-64.5 144-144-64.5-144-144-144z';
 
 exports.definition = {
   prefix: prefix,

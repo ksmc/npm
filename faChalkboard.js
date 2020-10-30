@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'chalkboard';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f51b';
-var svgPathData = ['M624 448h-16V40a40 40 0 0 0-40-40H72a40 40 0 0 0-40 40v408H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h608a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm-528 0V64h448v384z', 'M544 64v384h-64v-64H288v64H96V64z'];
+var svgPathData = 'M96 64h448v352h64V40c0-22.06-17.94-40-40-40H72C49.94 0 32 17.94 32 40v376h64V64zm528 384H480v-64H288v64H16c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16h608c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16z';
 
 exports.definition = {
   prefix: prefix,

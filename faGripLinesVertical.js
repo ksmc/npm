@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'grip-lines-vertical';
 var width = 256;
 var height = 512;
 var ligatures = [];
 var unicode = 'f7a5';
-var svgPathData = ['M224,16V496a16,16,0,0,1-16,16H176a16,16,0,0,1-16-16V16A16,16,0,0,1,176,0h32A16,16,0,0,1,224,16Z', 'M96,16V496a16,16,0,0,1-16,16H48a16,16,0,0,1-16-16V16A16,16,0,0,1,48,0H80A16,16,0,0,1,96,16Z'];
+var svgPathData = 'M96 496V16c0-8.8-7.2-16-16-16H48c-8.8 0-16 7.2-16 16v480c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16zm128 0V16c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v480c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16z';
 
 exports.definition = {
   prefix: prefix,

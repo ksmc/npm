@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'caret-up';
 var width = 320;
 var height = 512;
 var ligatures = [];
 var unicode = 'f0d8';
-var svgPathData = ['M160 168a19.41 19.41 0 0 1 13.37 5.29c.27.26.54.53.8.8l128.92 134.26c12.63 13.15 3.68 35.65-14.17 35.65H160z', 'M160 344H31.08c-17.85 0-26.8-22.48-14.17-35.63l128.92-134.28c.26-.27.53-.54.8-.8A19.41 19.41 0 0 1 160 168z'];
+var svgPathData = 'M288.662 352H31.338c-17.818 0-26.741-21.543-14.142-34.142l128.662-128.662c7.81-7.81 20.474-7.81 28.284 0l128.662 128.662c12.6 12.599 3.676 34.142-14.142 34.142z';
 
 exports.definition = {
   prefix: prefix,

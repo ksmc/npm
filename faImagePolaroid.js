@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'image-polaroid';
 var width = 448;
 var height = 512;
 var ligatures = [];
 var unicode = 'f8c4';
-var svgPathData = ['M416 32H32A32 32 0 0 0 0 64v384a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V64a32 32 0 0 0-32-32zm-32 320H64V96h320z', 'M64 96v256h320V96zm64 32a32 32 0 1 1-32 32 32 32 0 0 1 32-32zM96 320l50.69-76a16 16 0 0 1 26.62 0l20.57 30.85 49.32-65.75a16 16 0 0 1 25.6 0L352 320z'];
+var svgPathData = 'M128 192a32 32 0 1 0-32-32 32 32 0 0 0 32 32zM416 32H32A32 32 0 0 0 0 64v384a32 32 0 0 0 32 32h384a32 32 0 0 0 32-32V64a32 32 0 0 0-32-32zm-32 320H64V96h320zM268.8 209.07a16 16 0 0 0-25.6 0l-49.32 65.75L173.31 244a16 16 0 0 0-26.62 0L96 320h256z';
 
 exports.definition = {
   prefix: prefix,

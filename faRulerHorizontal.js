@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'ruler-horizontal';
 var width = 576;
 var height = 512;
 var ligatures = [];
 var unicode = 'f547';
-var svgPathData = ['M576 160v192a32 32 0 0 1-32 32H32a32 32 0 0 1-32-32V160a32 32 0 0 1 32-32h48v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h64v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h64v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h64v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h64v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h48a32 32 0 0 1 32 32z', 'M176 216a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h-32zm-96 0a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88H80zm192 0a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h-32zm192-88v88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88zm-96 88a8 8 0 0 0 8 8h16a8 8 0 0 0 8-8v-88h-32z'];
+var svgPathData = 'M544 128h-48v88c0 4.42-3.58 8-8 8h-16c-4.42 0-8-3.58-8-8v-88h-64v88c0 4.42-3.58 8-8 8h-16c-4.42 0-8-3.58-8-8v-88h-64v88c0 4.42-3.58 8-8 8h-16c-4.42 0-8-3.58-8-8v-88h-64v88c0 4.42-3.58 8-8 8h-16c-4.42 0-8-3.58-8-8v-88h-64v88c0 4.42-3.58 8-8 8H88c-4.42 0-8-3.58-8-8v-88H32c-17.67 0-32 14.33-32 32v192c0 17.67 14.33 32 32 32h512c17.67 0 32-14.33 32-32V160c0-17.67-14.33-32-32-32z';
 
 exports.definition = {
   prefix: prefix,

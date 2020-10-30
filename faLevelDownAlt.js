@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'level-down-alt';
 var width = 320;
 var height = 512;
 var ligatures = [];
 var unicode = 'f3be';
-var svgPathData = ['M152 352V80H68a12 12 0 0 1-8.48-3.52l-56-56A12 12 0 0 1 12 0h196a24 24 0 0 1 24 24v328z', 'M296 352c20.87 0 31.85 25 17.58 40.33l-104 112a24 24 0 0 1-33.91 1.26c-.44-.4-.86-.83-1.26-1.26l-104-112C56.25 377 67.07 352 88 352z'];
+var svgPathData = 'M313.553 392.331L209.587 504.334c-9.485 10.214-25.676 10.229-35.174 0L70.438 392.331C56.232 377.031 67.062 352 88.025 352H152V80H68.024a11.996 11.996 0 0 1-8.485-3.515l-56-56C-4.021 12.926 1.333 0 12.024 0H208c13.255 0 24 10.745 24 24v328h63.966c20.878 0 31.851 24.969 17.587 40.331z';
 
 exports.definition = {
   prefix: prefix,

@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'map-marker';
 var width = 384;
 var height = 512;
 var ligatures = [];
 var unicode = 'f041';
-var svgPathData = ['M384 192c0 77.41-27 99-172.27 309.67a24 24 0 0 1-39.46 0C27 291 0 269.41 0 192 0 86 86 0 192 0s192 86 192 192z', ''];
+var svgPathData = 'M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0z';
 
 exports.definition = {
   prefix: prefix,

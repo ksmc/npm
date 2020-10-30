@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'battery-full';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f240';
-var svgPathData = ['M616 160h-8v-16a48 48 0 0 0-48-48H48a48 48 0 0 0-48 48v224a48 48 0 0 0 48 48h512a48 48 0 0 0 48-48v-16h8a24 24 0 0 0 24-24V184a24 24 0 0 0-24-24zm-40 128h-32v64H64V160h480v64h32z', 'M512 320H96V192h416z'];
+var svgPathData = 'M544 160v64h32v64h-32v64H64V160h480m16-64H48c-26.51 0-48 21.49-48 48v224c0 26.51 21.49 48 48 48h512c26.51 0 48-21.49 48-48v-16h8c13.255 0 24-10.745 24-24V184c0-13.255-10.745-24-24-24h-8v-16c0-26.51-21.49-48-48-48zm-48 96H96v128h416V192z';
 
 exports.definition = {
   prefix: prefix,

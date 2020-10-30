@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'dewpoint';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f748';
-var svgPathData = ['M416 0a96 96 0 1 0 96 96 96.15 96.15 0 0 0-96-96zm0 128a32 32 0 1 1 32-32 32 32 0 0 1-32 32z', 'M384 333.9c0 98.4-85.9 178.1-192 178.1S0 432.3 0 333.9C0 222.69 109.1 179.79 160.1 22.09c9.8-30.1 55.1-28.8 63.8 0 51.2 158.5 160.1 200 160.1 311.81z'];
+var svgPathData = 'M160.1 22.1C109.1 179.8 0 222.7 0 333.9 0 432.3 85.9 512 192 512s192-79.7 192-178.1c0-111.8-108.9-153.3-160.1-311.8-8.7-28.8-54-30.1-63.8 0zM416 0c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm0 128c-17.7 0-32-14.3-32-32s14.3-32 32-32 32 14.3 32 32-14.3 32-32 32z';
 
 exports.definition = {
   prefix: prefix,

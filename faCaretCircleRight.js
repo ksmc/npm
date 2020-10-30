@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'caret-circle-right';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f330';
-var svgPathData = ['M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm95.5 256.5l-123 123A12 12 0 0 1 208 379V133a12 12 0 0 1 20.5-8.5l123 123a12 12 0 0 1 0 17z', 'M351.5 264.5l-123 123A12 12 0 0 1 208 379V133a12 12 0 0 1 20.5-8.5l123 123a12 12 0 0 1 0 17z'];
+var svgPathData = 'M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zm-27.5 379.5l123-123c4.7-4.7 4.7-12.3 0-17l-123-123c-7.6-7.6-20.5-2.2-20.5 8.5v246c0 10.7 12.9 16.1 20.5 8.5z';
 
 exports.definition = {
   prefix: prefix,

@@ -7,4 +7,4 @@ export const width: number;
 export const height: number;
 export const ligatures: string[];
 export const unicode: string;
-export const svgPathData: string[];
+export const svgPathData: string;

@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'screwdriver';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f54a';
-var svgPathData = ['M448 0l64 64-96 128h-62.07l-83 83A98.45 98.45 0 0 0 237 241.09l83-83V96z', 'M63.61 501.08l-52.7-52.7a37.28 37.28 0 0 1 0-52.71L128 278.59A74.54 74.54 0 0 1 233.4 384L116.32 501.08a37.26 37.26 0 0 1-52.71 0z'];
+var svgPathData = 'M448 0L320 96v62.06l-83.03 83.03c6.79 4.25 13.27 9.06 19.07 14.87 5.8 5.8 10.62 12.28 14.87 19.07L353.94 192H416l96-128-64-64zM128 278.59L10.92 395.67c-14.55 14.55-14.55 38.15 0 52.71l52.7 52.7c14.56 14.56 38.15 14.56 52.71 0L233.41 384c29.11-29.11 29.11-76.3 0-105.41s-76.3-29.11-105.41 0z';
 
 exports.definition = {
   prefix: prefix,

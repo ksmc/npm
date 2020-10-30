@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'prescription-bottle';
 var width = 384;
 var height = 512;
 var ligatures = [];
 var unicode = 'f485';
-var svgPathData = ['M32 128h320v352a32.09 32.09 0 0 1-32 32H64a32.09 32.09 0 0 1-32-32v-64h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8H32v-64h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8H32v-64h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8H32z', 'M360 0H24A24.07 24.07 0 0 0 0 24v48a24.07 24.07 0 0 0 24 24h336a24.07 24.07 0 0 0 24-24V24a24.07 24.07 0 0 0-24-24zM152 384H32v32h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8zm0-192H32v32h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8zm0 96H32v32h120a8 8 0 0 0 8-8v-16a8 8 0 0 0-8-8z'];
+var svgPathData = 'M32 192h120c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H32v64h120c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H32v64h120c4.4 0 8 3.6 8 8v16c0 4.4-3.6 8-8 8H32v64c0 17.6 14.4 32 32 32h256c17.6 0 32-14.4 32-32V128H32v64zM360 0H24C10.8 0 0 10.8 0 24v48c0 13.2 10.8 24 24 24h336c13.2 0 24-10.8 24-24V24c0-13.2-10.8-24-24-24z';
 
 exports.definition = {
   prefix: prefix,

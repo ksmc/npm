@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'hospital-symbol';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f47e';
-var svgPathData = ['M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm112 376a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8v-88h-96v88a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8V136a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8v88h96v-88a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8z', 'M368 376a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8v-88h-96v88a8 8 0 0 1-8 8h-48a8 8 0 0 1-8-8V136a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8v88h96v-88a8 8 0 0 1 8-8h48a8 8 0 0 1 8 8z'];
+var svgPathData = 'M256 0C114.6 0 0 114.6 0 256s114.6 256 256 256 256-114.6 256-256S397.4 0 256 0zm112 376c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8v-88h-96v88c0 4.4-3.6 8-8 8h-48c-4.4 0-8-3.6-8-8V136c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v88h96v-88c0-4.4 3.6-8 8-8h48c4.4 0 8 3.6 8 8v240z';
 
 exports.definition = {
   prefix: prefix,

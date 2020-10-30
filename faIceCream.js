@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'ice-cream';
 var width = 448;
 var height = 512;
 var ligatures = [];
 var unicode = 'f810';
-var svgPathData = ['M367.94,256.19H80.06a48,48,0,0,1-4.16-95.92c1.39-.06,2.77-.06,4.16,0H81a143.94,143.94,0,1,1,286,0h.94a48,48,0,0,1,4.16,95.92c-1.39.06-2.77.06-4.16,0Z', 'M195.39,493.69,96.05,288.17H352L252.61,493.69a31.52,31.52,0,0,1-57.22,0Z'];
+var svgPathData = 'M368 160h-.94a144 144 0 1 0-286.12 0H80a48 48 0 0 0 0 96h288a48 48 0 0 0 0-96zM195.38 493.69a31.52 31.52 0 0 0 57.24 0L352 288H96z';
 
 exports.definition = {
   prefix: prefix,

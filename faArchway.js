@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'archway';
 var width = 576;
 var height = 512;
 var ligatures = [];
 var unicode = 'f557';
-var svgPathData = ['M576 16v32a16 16 0 0 1-16 16H16A16 16 0 0 1 0 48V16A16 16 0 0 1 16 0h544a16 16 0 0 1 16 16z', 'M576 464v32a16 16 0 0 1-16 16H400a16 16 0 0 1-16-16V320a96 96 0 0 0-192 0v176a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h16V96h512v352h16a16 16 0 0 1 16 16z'];
+var svgPathData = 'M560 448h-16V96H32v352H16.02c-8.84 0-16 7.16-16 16v32c0 8.84 7.16 16 16 16H176c8.84 0 16-7.16 16-16V320c0-53.02 42.98-96 96-96s96 42.98 96 96l.02 160v16c0 8.84 7.16 16 16 16H560c8.84 0 16-7.16 16-16v-32c0-8.84-7.16-16-16-16zm0-448H16C7.16 0 0 7.16 0 16v32c0 8.84 7.16 16 16 16h544c8.84 0 16-7.16 16-16V16c0-8.84-7.16-16-16-16z';
 
 exports.definition = {
   prefix: prefix,

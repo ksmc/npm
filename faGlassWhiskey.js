@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'glass-whiskey';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f7a0';
-var svgPathData = ['M119.53 415.15L89.52 224h333.15l-29.81 191.22-.07.43v.31H119.73l-.06-.4z', 'M442.63 96l-49.77 319.22-.07.43v.31H119.73l-.06-.4-.07-.44L69.42 96h373.21M480 32H32A32 32 0 0 0 .32 68.51l56 356.58A64 64 0 0 0 119.71 480h273a64.07 64.07 0 0 0 63.4-54.91l55.57-356.58A32 32 0 0 0 480 32z'];
+var svgPathData = 'M480 32H32C12.5 32-2.4 49.2.3 68.5l56 356.5c4.5 31.5 31.5 54.9 63.4 54.9h273c31.8 0 58.9-23.4 63.4-54.9l55.6-356.5C514.4 49.2 499.5 32 480 32zm-37.4 64l-30 192h-313L69.4 96h373.2z';
 
 exports.definition = {
   prefix: prefix,

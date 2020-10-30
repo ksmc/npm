@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'scrubber';
 var width = 496;
 var height = 512;
 var ligatures = [];
 var unicode = 'f2f8';
-var svgPathData = ['M248,8C111,8,0,119,0,256S111,504,248,504,496,393,496,256,385,8,248,8Zm0,312a64,64,0,1,1,64-64A64,64,0,0,1,248,320Z', 'M248,320a64,64,0,1,1,64-64A64,64,0,0,1,248,320Z'];
+var svgPathData = 'M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 312c-35.3 0-64-28.7-64-64s28.7-64 64-64 64 28.7 64 64-28.7 64-64 64z';
 
 exports.definition = {
   prefix: prefix,

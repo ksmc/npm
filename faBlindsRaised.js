@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'blinds-raised';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f8fd';
-var svgPathData = ['M0,225.29H96V160.92H18.66Zm128-64.37v64.37H512l-18.66-64.37ZM493.34,64.37H128v64.37H512ZM0,128.74H96V64.37H18.66Z', 'M512,16.09V48.28a16,16,0,0,1-16,16.09H128v354a48,48,0,1,1-32,0v-354H16A16,16,0,0,1,0,48.28V16.09A16,16,0,0,1,16,0H496A16,16,0,0,1,512,16.09Z'];
+var svgPathData = 'M16,160,0,224H96V160ZM512,48V16A16,16,0,0,0,496,0H16A16,16,0,0,0,0,16V48A16,16,0,0,0,16,64L0,128H96V64h32v64H512L496,64A16,16,0,0,0,512,48ZM496,160H128v64H512ZM96,224V418.94a48,48,0,1,0,32,0V224Z';
 
 exports.definition = {
   prefix: prefix,

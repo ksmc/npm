@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'credit-card-blank';
 var width = 576;
 var height = 512;
 var ligatures = [];
 var unicode = 'f389';
-var svgPathData = ['M340 352H204a12 12 0 0 0-12 12v40a12 12 0 0 0 12 12h136a12 12 0 0 0 12-12v-40a12 12 0 0 0-12-12zm-192 0H76a12 12 0 0 0-12 12v40a12 12 0 0 0 12 12h72a12 12 0 0 0 12-12v-40a12 12 0 0 0-12-12z', 'M528 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h480a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48zM160 404a12 12 0 0 1-12 12H76a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h72a12 12 0 0 1 12 12zm192 0a12 12 0 0 1-12 12H204a12 12 0 0 1-12-12v-40a12 12 0 0 1 12-12h136a12 12 0 0 1 12 12z'];
+var svgPathData = 'M528 40H48C21.5 40 0 61.5 0 88v352c0 26.5 21.5 48 48 48h480c26.5 0 48-21.5 48-48V88c0-26.5-21.5-48-48-48zM160 404c0 6.6-5.4 12-12 12H76c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h72c6.6 0 12 5.4 12 12v40zm192 0c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h136c6.6 0 12 5.4 12 12v40z';
 
 exports.definition = {
   prefix: prefix,

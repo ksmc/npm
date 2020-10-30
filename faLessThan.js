@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'less-than';
 var width = 384;
 var height = 512;
 var ligatures = [];
 var unicode = 'f536';
-var svgPathData = ['M381 400.39l-13.56 29.08A32.09 32.09 0 0 1 324.79 445L18.48 302.16a32 32 0 0 1-18.48-29v-34.24a32 32 0 0 1 18.48-29L324.94 67a32 32 0 0 1 42.53 15.48l13.52 29A32 32 0 0 1 365.51 154L147 255.9l218.46 101.85A32.08 32.08 0 0 1 381 400.39z', ''];
+var svgPathData = 'M365.46 357.74L147.04 255.89l218.47-101.88c16.02-7.47 22.95-26.51 15.48-42.53l-13.52-29C360 66.46 340.96 59.53 324.94 67L18.48 209.91a32.014 32.014 0 0 0-18.48 29v34.24c0 12.44 7.21 23.75 18.48 29l306.31 142.83c16.06 7.49 35.15.54 42.64-15.52l13.56-29.08c7.49-16.06.54-35.15-15.53-42.64z';
 
 exports.definition = {
   prefix: prefix,

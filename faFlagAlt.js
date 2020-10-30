@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'flag-alt';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f74c';
-var svgPathData = ['M512 30.83v301.29a31.39 31.39 0 0 1-18.5 28.8C317.7 437.33 281.7 291.83 96 384V32.42c209.4-94.59 195.3 59.1 366.6-28.19 22.6-11.5 49.4 1.5 49.4 26.6z', 'M64 32v464a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16V32a32 32 0 0 1 64 0z'];
+var svgPathData = 'M32 0C14.3 0 0 14.3 0 32v464c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V32C64 14.3 49.7 0 32 0zm430.6 4.2C291.3 91.5 305.4-62.2 96 32.4V384c185.7-92.2 221.7 53.3 397.5-23.1 11.4-5 18.5-16.5 18.5-28.8V30.8c0-25.1-26.8-38.1-49.4-26.6z';
 
 exports.definition = {
   prefix: prefix,

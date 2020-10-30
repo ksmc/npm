@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'bolt';
 var width = 320;
 var height = 512;
 var ligatures = [];
 var unicode = 'f0e7';
-var svgPathData = ['M224 24.19a23.89 23.89 0 0 1-.79 6L180.61 160l-37.9 128H24a24 24 0 0 1-24-24 24.45 24.45 0 0 1 .21-3.2l32-240A24 24 0 0 1 56 0h144a24.09 24.09 0 0 1 24 24.19z', 'M319.93 184.07a23.93 23.93 0 0 1-3.22 11.93l-176 304a24 24 0 0 1-44.1-17.5l46.1-194.5 37.9-128H296a24 24 0 0 1 23.93 24.07z'];
+var svgPathData = 'M296 160H180.6l42.6-129.8C227.2 15 215.7 0 200 0H56C44 0 33.8 8.9 32.2 20.8l-32 240C-1.7 275.2 9.5 288 24 288h118.7L96.6 482.5c-3.6 15.2 8 29.5 23.3 29.5 8.4 0 16.4-4.4 20.8-12l176-304c9.3-15.9-2.2-36-20.7-36z';
 
 exports.definition = {
   prefix: prefix,

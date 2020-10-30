@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'vials';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f493';
-var svgPathData = ['M128 304a48 48 0 0 0 96 0V160h-96zm288-144v144a48 48 0 0 0 96 0V160z', 'M360 64h24v240a80 80 0 0 0 160 0V64h24a8 8 0 0 0 8-8V8a8 8 0 0 0-8-8H360a8 8 0 0 0-8 8v48a8 8 0 0 0 8 8zm72 0h64v240a32 32 0 0 1-64 0zm192 384H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h608a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM72 64h24v240a80 80 0 0 0 160 0V64h24a8 8 0 0 0 8-8V8a8 8 0 0 0-8-8H72a8 8 0 0 0-8 8v48a8 8 0 0 0 8 8zm72 0h64v240a32 32 0 0 1-64 0z'];
+var svgPathData = 'M72 64h24v240c0 44.1 35.9 80 80 80s80-35.9 80-80V64h24c4.4 0 8-3.6 8-8V8c0-4.4-3.6-8-8-8H72c-4.4 0-8 3.6-8 8v48c0 4.4 3.6 8 8 8zm72 0h64v96h-64V64zm480 384H16c-8.8 0-16 7.2-16 16v32c0 8.8 7.2 16 16 16h608c8.8 0 16-7.2 16-16v-32c0-8.8-7.2-16-16-16zM360 64h24v240c0 44.1 35.9 80 80 80s80-35.9 80-80V64h24c4.4 0 8-3.6 8-8V8c0-4.4-3.6-8-8-8H360c-4.4 0-8 3.6-8 8v48c0 4.4 3.6 8 8 8zm72 0h64v96h-64V64z';
 
 exports.definition = {
   prefix: prefix,

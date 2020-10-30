@@ -50,7 +50,7 @@
     "@fortawesome/fontawesome-common-types": "^0.2.32"
   },
   "version": "5.15.1",
-  "name": "@fortawesome/pro-duotone-svg-icons",
+  "name": "@fortawesome/pro-solid-svg-icons",
   "main": "index.js",
   "module": "index.es.js",
   "jsnext:main": "index.es.js",

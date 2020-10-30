@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'paint-roller';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f5aa';
-var svgPathData = ['M384 160H32a32 32 0 0 1-32-32V32A32 32 0 0 1 32 0h352a32 32 0 0 1 32 32v96a32 32 0 0 1-32 32z', 'M512 128v64a96 96 0 0 1-96 96H256v32a32 32 0 0 1 32 32v128a32 32 0 0 1-32 32h-64a32 32 0 0 1-32-32V352a32 32 0 0 1 32-32v-32a64 64 0 0 1 64-64h160a32 32 0 0 0 32-32V64a64 64 0 0 1 64 64z'];
+var svgPathData = 'M416 128V32c0-17.67-14.33-32-32-32H32C14.33 0 0 14.33 0 32v96c0 17.67 14.33 32 32 32h352c17.67 0 32-14.33 32-32zm32-64v128c0 17.67-14.33 32-32 32H256c-35.35 0-64 28.65-64 64v32c-17.67 0-32 14.33-32 32v128c0 17.67 14.33 32 32 32h64c17.67 0 32-14.33 32-32V352c0-17.67-14.33-32-32-32v-32h160c53.02 0 96-42.98 96-96v-64c0-35.35-28.65-64-64-64z';
 
 exports.definition = {
   prefix: prefix,

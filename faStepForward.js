@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'step-forward';
 var width = 448;
 var height = 512;
 var ligatures = [];
 var unicode = 'f051';
-var svgPathData = ['M304,219.29V48a16,16,0,0,1,16-16h48a16,16,0,0,1,16,16V464a16,16,0,0,1-16,16H320a16,16,0,0,1-16-16V219.3Z', 'M64,448V64c0-27.4,31.9-41.7,52.5-24.6L304,213.66v84.69L116.5,472.59C95.9,489.69,64,475.39,64,448Z'];
+var svgPathData = 'M384 44v424c0 6.6-5.4 12-12 12h-48c-6.6 0-12-5.4-12-12V291.6l-195.5 181C95.9 489.7 64 475.4 64 448V64c0-27.4 31.9-41.7 52.5-24.6L312 219.3V44c0-6.6 5.4-12 12-12h48c6.6 0 12 5.4 12 12z';
 
 exports.definition = {
   prefix: prefix,

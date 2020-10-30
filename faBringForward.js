@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'bring-forward';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f856';
-var svgPathData = ['M512 208v256a48 48 0 0 1-48 48H208a48 48 0 0 1-48-48V352h64v96h224V224h-96v-64h112a48 48 0 0 1 48 48z', 'M304 352H48a48 48 0 0 1-48-48V48A48 48 0 0 1 48 0h256a48 48 0 0 1 48 48v256a48 48 0 0 1-48 48z'];
+var svgPathData = 'M352 304V48a48 48 0 0 0-48-48H48A48 48 0 0 0 0 48v256a48 48 0 0 0 48 48h256a48 48 0 0 0 48-48zm112-144h-80v64h64v224H224v-64h-64v80a48 48 0 0 0 48 48h256a48 48 0 0 0 48-48V208a48 48 0 0 0-48-48z';
 
 exports.definition = {
   prefix: prefix,

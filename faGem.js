@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'gem';
 var width = 576;
 var height = 512;
 var ligatures = [];
 var unicode = 'f3a5';
-var svgPathData = ['M100.7 192H0l218.7 255a3 3 0 0 0 5-3.3zm374.6 0l-123 251.7a3 3 0 0 0 5 3.2L576 192zm-327.1 0l137.1 318.2a3 3 0 0 0 5.5 0l137-318.2z', 'M90.5 0L0 160h101.1L170.3 0zm395 0h-79.8l69.2 160H576zm-267 0l-69.2 160h277.4L357.5 0z'];
+var svgPathData = 'M485.5 0L576 160H474.9L405.7 0h79.8zm-128 0l69.2 160H149.3L218.5 0h139zm-267 0h79.8l-69.2 160H0L90.5 0zM0 192h100.7l123 251.7c1.5 3.1-2.7 5.9-5 3.3L0 192zm148.2 0h279.6l-137 318.2c-1 2.4-4.5 2.4-5.5 0L148.2 192zm204.1 251.7l123-251.7H576L357.3 446.9c-2.3 2.7-6.5-.1-5-3.2z';
 
 exports.definition = {
   prefix: prefix,

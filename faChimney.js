@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'chimney';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f78b';
-var svgPathData = ['M160 224H32v128h128zM32 512h288V384H32zm320 0h128V384H352zM192 224v128h288V224z', 'M0 160V32A32 32 0 0 1 32 0h448a32 32 0 0 1 32 32v128a32 32 0 0 1-32 32H32a32 32 0 0 1-32-32z'];
+var svgPathData = 'M480 0H32C14.3 0 0 14.3 0 32v128c0 17.7 14.3 32 32 32h448c17.7 0 32-14.3 32-32V32c0-17.7-14.3-32-32-32zM32 512h288V384H32v128zm160-160h288V224H192v128zM32 224v128h128V224H32zm320 288h128V384H352v128z';
 
 exports.definition = {
   prefix: prefix,

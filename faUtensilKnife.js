@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'utensil-knife';
 var width = 512;
 var height = 512;
 var ligatures = [];
 var unicode = 'f2e4';
-var svgPathData = ['M180.89 252.82L425.47 8.7a29.54 29.54 0 0 1 41.72-.15l.15.15C539.27 80.49 502 359.8 258.61 330.1l-.14.16z', 'M113 501.55A29.59 29.59 0 0 1 71.36 505c-.64-.53-1.24-1.09-1.82-1.67l-48.89-48.77a29.58 29.58 0 0 1 0-41.8l160.28-160 77.5 77.48z'];
+var svgPathData = 'M424.9 8.7L20.8 412.8c-11.5 11.5-11.5 30.3 0 41.8l48.8 48.8c12.2 12.2 32.2 11.4 43.4-1.8l148.2-174.3C504.1 357 538.5 80.5 466.7 8.7c-11.6-11.6-30.3-11.6-41.8 0z';
 
 exports.definition = {
   prefix: prefix,

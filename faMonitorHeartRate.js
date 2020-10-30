@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'monitor-heart-rate';
 var width = 576;
 var height = 512;
 var ligatures = [];
 var unicode = 'f611';
-var svgPathData = ['M512 64v384H64V288h118.11l27.58 55.16a16 16 0 0 0 28.62 0L288 243.78 310.11 288H400a16 16 0 0 0 0-32h-70.11l-27.58-55.16a16 16 0 0 0-28.62 0L224 300.22l-19.9-39.8A8 8 0 0 0 197 256H64V64z', 'M528 0H48A48 48 0 0 0 0 48v416a48 48 0 0 0 48 48h480a48 48 0 0 0 48-48V48a48 48 0 0 0-48-48zm-16 448H64V64h448z'];
+var svgPathData = 'M480 96H96v160h100.95c3.03 0 5.8 1.71 7.15 4.42l19.9 39.8 49.69-99.38c5.9-11.79 22.72-11.79 28.62 0L329.89 256H400c8.84 0 16 7.16 16 16s-7.16 16-16 16h-89.89L288 243.78l-49.69 99.38c-5.9 11.79-22.72 11.79-28.62 0L182.11 288H96v128h384V96zm48-96H48C21.49 0 0 21.49 0 48v416c0 26.51 21.49 48 48 48h480c26.51 0 48-21.49 48-48V48c0-26.51-21.49-48-48-48zm-16 448H64V64h448v384z';
 
 exports.definition = {
   prefix: prefix,

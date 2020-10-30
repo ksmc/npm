@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'tablet-android';
 var width = 448;
 var height = 512;
 var ligatures = [];
 var unicode = 'f3fb';
-var svgPathData = ['M0 384v80a48 48 0 0 0 48 48h352a48 48 0 0 0 48-48v-80zm288 68a12 12 0 0 1-12 12H172a12 12 0 0 1-12-12v-8a12 12 0 0 1 12-12h104a12 12 0 0 1 12 12z', 'M0 384V48A48 48 0 0 1 48 0h352a48 48 0 0 1 48 48v336z'];
+var svgPathData = 'M400 0H48C21.5 0 0 21.5 0 48v416c0 26.5 21.5 48 48 48h352c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zM288 452c0 6.6-5.4 12-12 12H172c-6.6 0-12-5.4-12-12v-8c0-6.6 5.4-12 12-12h104c6.6 0 12 5.4 12 12v8z';
 
 exports.definition = {
   prefix: prefix,

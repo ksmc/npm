@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'refrigerator';
 var width = 384;
 var height = 512;
 var ligatures = [];
 var unicode = 'e026';
-var svgPathData = ['M336,.5H48a48,48,0,0,0-48,48v112H288v-88a8,8,0,0,1,8-8h16a8,8,0,0,1,8,8v88h64V48.5A48,48,0,0,0,336,.5Zm-16,376a8,8,0,0,1-8,8H296a8,8,0,0,1-8-8v-184H0v272a48,48,0,0,0,48,48H336a48,48,0,0,0,48-48v-272H320Z', 'M0,192.5H288v-32H0Zm320-32v32h64v-32Z'];
+var svgPathData = 'M0,160V48A48,48,0,0,1,48,0H336a48,48,0,0,1,48,48V160H320V72a8,8,0,0,0-8-8H296a8,8,0,0,0-8,8v88Zm320,32V376a8,8,0,0,1-8,8H296a8,8,0,0,1-8-8V192H0V464a48,48,0,0,0,48,48H336a48,48,0,0,0,48-48V192Z';
 
 exports.definition = {
   prefix: prefix,

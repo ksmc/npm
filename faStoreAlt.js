@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'store-alt';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f54f';
-var svgPathData = ['M320 384H128V224H64v256a32 32 0 0 0 32 32h256a32 32 0 0 0 32-32V224h-64zm192-160v272a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V224z', 'M634.55 142.2c14.1 21.3-1.1 49.8-26.6 49.8H32.05c-25.6 0-40.8-28.5-26.6-49.8l85.3-128A31.87 31.87 0 0 1 117.35 0h405.2a32.18 32.18 0 0 1 26.7 14.2z'];
+var svgPathData = 'M320 384H128V224H64v256c0 17.7 14.3 32 32 32h256c17.7 0 32-14.3 32-32V224h-64v160zm314.6-241.8l-85.3-128c-6-8.9-16-14.2-26.7-14.2H117.4c-10.7 0-20.7 5.3-26.6 14.2l-85.3 128c-14.2 21.3 1 49.8 26.6 49.8H608c25.5 0 40.7-28.5 26.6-49.8zM512 496c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16V224h-64v272z';
 
 exports.definition = {
   prefix: prefix,

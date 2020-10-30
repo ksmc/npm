@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'scythe';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f710';
-var svgPathData = ['M549.87 0L510 192H0C64 64 192 0 338.87 0z', 'M639.44 38l-96.27 461a16 16 0 0 1-15.72 13H496a16 16 0 0 1-16-16 16.16 16.16 0 0 1 .27-2.94l29.26-141H400a16 16 0 0 1-16-16V304a16 16 0 0 1 16-16h122.81L582.55 0H608a32 32 0 0 1 31.44 38z'];
+var svgPathData = 'M608 0h-25.45l-59.74 288H400a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h109.54l-29.26 141.05A16 16 0 0 0 496 512h31.45a16 16 0 0 0 15.72-13l96.27-461A32 32 0 0 0 608 0zm-58.13 0h-211C192 0 64 64 0 192h510z';
 
 exports.definition = {
   prefix: prefix,

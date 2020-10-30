@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'mountain';
 var width = 640;
 var height = 512;
 var ligatures = [];
 var unicode = 'f6fc';
-var svgPathData = ['M256 242.75l-66.66-66.67L293.08 14.7a32 32 0 0 1 53.84 0L460.9 192H306.75l-9.37 9.37z', 'M636.09 495.33A32 32 0 0 1 608 512H32a32 32 0 0 1-26.92-49.3l166.55-259.07L256 288l64-64h161.47l153.45 238.7a32 32 0 0 1 1.17 32.63z'];
+var svgPathData = 'M634.92 462.7l-288-448C341.03 5.54 330.89 0 320 0s-21.03 5.54-26.92 14.7l-288 448a32.001 32.001 0 0 0-1.17 32.64A32.004 32.004 0 0 0 32 512h576c11.71 0 22.48-6.39 28.09-16.67a31.983 31.983 0 0 0-1.17-32.63zM320 91.18L405.39 224H320l-64 64-38.06-38.06L320 91.18z';
 
 exports.definition = {
   prefix: prefix,

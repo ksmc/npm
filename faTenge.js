@@ -1,12 +1,12 @@
 'use strict';
 Object.defineProperty(exports, '__esModule', { value: true });
-var prefix = 'fad';
+var prefix = 'fas';
 var iconName = 'tenge';
 var width = 384;
 var height = 512;
 var ligatures = [];
 var unicode = 'f7d7';
-var svgPathData = ['M372 160H12a12 12 0 0 0-12 12v56a12 12 0 0 0 12 12h140v228a12 12 0 0 0 12 12h56a12 12 0 0 0 12-12V240h140a12 12 0 0 0 12-12v-56a12 12 0 0 0-12-12z', 'M372 32H12A12 12 0 0 0 0 44v56a12 12 0 0 0 12 12h360a12 12 0 0 0 12-12V44a12 12 0 0 0-12-12z'];
+var svgPathData = 'M372 160H12c-6.6 0-12 5.4-12 12v56c0 6.6 5.4 12 12 12h140v228c0 6.6 5.4 12 12 12h56c6.6 0 12-5.4 12-12V240h140c6.6 0 12-5.4 12-12v-56c0-6.6-5.4-12-12-12zm0-128H12C5.4 32 0 37.4 0 44v56c0 6.6 5.4 12 12 12h360c6.6 0 12-5.4 12-12V44c0-6.6-5.4-12-12-12z';
 
 exports.definition = {
   prefix: prefix,
