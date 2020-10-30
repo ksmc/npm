@@ -49,14 +49,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-common-types": "^0.2.32"
   },
-  "version": "1.2.32",
-  "name": "@fortawesome/fontawesome-svg-core",
+  "version": "5.15.1",
+  "name": "@fortawesome/pro-duotone-svg-icons",
   "main": "index.js",
   "module": "index.es.js",
   "jsnext:main": "index.es.js",
-  "style": "styles.css",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "types": "./index.d.ts",
+  "sideEffects": false,
   "scripts": {
     "postinstall": "node attribution.js"
   }

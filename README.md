@@ -1,19 +1,19 @@
-# @fortawesome/fontawesome-svg-core - SVG with JavaScript version
+# @fortawesome/free-duotone-svg-icons - SVG with JavaScript version
 
 > "I came here to chew bubblegum and install Font Awesome 5 - and I'm all out of bubblegum"
 
-[![npm](https://img.shields.io/npm/v/@fortawesome/fontawesome-svg-core.svg?style=flat-square)](https://www.npmjs.com/package/@fortawesome/fontawesome-svg-core)
+[![npm](https://img.shields.io/npm/v/@fortawesome/free-duotone-svg-icons.svg?style=flat-square)](https://www.npmjs.com/package/@fortawesome/free-duotone-svg-icons)
 
 ## Installation
 
 ```
-$ npm i --save @fortawesome/fontawesome-svg-core
+$ npm i --save @fortawesome/free-duotone-svg-icons
 ```
 
 Or
 
 ```
-$ yarn add @fortawesome/fontawesome-svg-core
+$ yarn add @fortawesome/free-duotone-svg-icons
 ```
 
 ## Documentation
